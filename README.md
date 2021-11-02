@@ -11,3 +11,7 @@ Note : Body Traits , Weapons and even facial features can be further modified.
 The avtars modified into icons will look similar to the attached sample.
 ![](https://github.com/old-monger/avatr2021/blob/main/traits_p.png)
 
+You can see the body variations [**HERE.**](https://github.com/old-monger/avatr2021/tree/main/body_varitions)
+
+You can see the color variations [**HERE.**](https://github.com/old-monger/avatr2021/tree/main/colour_varition)
+
